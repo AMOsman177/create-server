@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This application consists of some very basic HTML, CSS, and JS alongside my very first server.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMOsman177/create-server.git"
+  },
+  "author": "Ahmed Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMOsman177/create-server/issues"
+  },
+  "homepage": "https://github.com/AMOsman177/create-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
